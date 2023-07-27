@@ -104,7 +104,6 @@ const Cart = () => {
 
         <div>
       {/* Your other content here */}
-      <button onClick={handleProceedToCheckout}>Proceed to Checkout</button>
       {/* Modal */}
       {modalCard && (
         <div className="modal">
